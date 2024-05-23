@@ -1,4 +1,4 @@
-# Chat Application
+# FriendyFY Chat Application
 
 ![Chat Application](path/to/your/logo.png)
 
@@ -8,7 +8,6 @@ A real-time chat application built using the MERN stack (MongoDB, Express, React
 
 - Real-time messaging with Socket.IO
 - User authentication and authorization
-- Create and join chat rooms
 - Responsive UI with React and Tailwind CSS
 - MongoDB for storing chat history and user data
 
@@ -22,7 +21,7 @@ A real-time chat application built using the MERN stack (MongoDB, Express, React
 
 ## Demo
 
-You can access the live demo [here](https://your-live-demo-url.com).
+You can access the live demo [here](https://github.com/rishirawat04/FriendyFy).
 
 ## Installation
 
@@ -36,7 +35,7 @@ You can access the live demo [here](https://your-live-demo-url.com).
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone = https://github.com/rishirawat04/FriendyFy
     cd your-repo
     ```
 
@@ -50,7 +49,7 @@ You can access the live demo [here](https://your-live-demo-url.com).
 3. Create a `.env` file in the `server` directory with the following content:
 
     ```plaintext
-    PORT=5000
+    PORT=3000
     MONGO_URI=your_mongodb_uri
     JWT_SECRET=your_jwt_secret
     ```
@@ -73,7 +72,7 @@ You can access the live demo [here](https://your-live-demo-url.com).
 2. Create a `.env` file in the `client` directory with the following content:
 
     ```plaintext
-    REACT_APP_API_URL=http://localhost:5000
+    REACT_APP_API_URL=http://localhost:3000
     ```
 
 3. Start the frontend:
@@ -117,8 +116,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- **Name**: Rishi rawat
+- **Email**: rishitech04@gmail.com
+- **GitHub**: [Rishi Rawat](https://github.com/rishirawat04/)
+- **LinkedIn**: [Rishi Rawat](https://www.linkedin.com/)
 
