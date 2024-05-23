@@ -16,8 +16,8 @@ A real-time chat application built using the MERN stack (MongoDB, Express, React
 ### Login Page
 ![Login Page](path/to/screenshots/login.png)
 
-### Chat Room
-![Chat Room](path/to/screenshots/chat-room.png)
+### Sign Up
+![Sign Up](https://github.com/rishirawat04/FriendyFy/blob/main/client/FriendyFy%20__%20Chating%20App%20-%20Google%20Chrome%205_23_2024%2010_12_35%20PM.png)
 
 ## Demo
 
